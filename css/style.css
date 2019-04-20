@@ -1,0 +1,141 @@
+a {
+    color: black;
+    text-decoration: none;
+}
+
+body {
+    background: #F0FFFF;
+}
+
+hr {
+    border: 1px solid white;
+}
+
+h2, h3 {
+    padding: 15px;
+    margin-left: 10px;
+}
+
+h4, h5, h6, p {
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 15px;
+    margin-left: 10px;
+}
+
+img {
+    border-radius:150px;
+    height: 84px;
+    width: 84px;
+}
+
+label {
+    font-family: 'Srisakdi', cursive;
+    font-size: 27px;
+    margin-left: 10px;
+}
+
+.botones {
+    padding: 0 80px;
+    text-align: left;
+}
+
+.container {
+    float: left;
+    margin-top: 30px;
+    width: 100%;
+}
+
+.inicio {
+    float: left;
+    text-align: center;
+    width: 35%;
+}
+
+.final {
+    float: left;
+    width: 60%;
+}
+
+#boton1 {
+    background-color: #352961;
+    border-radius: 10px;
+    color: white;
+    display: block;
+    font-family: 'Sniglet', cursive;
+    margin-bottom: -10px;
+}
+
+#boton2 {
+    background-color: #774181;
+    border-radius: 10px;
+    display: block;
+    font-family: 'Sniglet', cursive;
+    margin-bottom: -10px;
+}
+
+#boton3 {
+    background-color: #e6b2c6;
+    border-radius: 10px;
+    display: block;
+    font-family: 'Sniglet', cursive;
+    margin-bottom: -10px;
+}
+
+#boton4 {
+    background-color: #f6e5e5;
+    border-radius: 10px;
+    display: block;
+    font-family: 'Sniglet', cursive;
+    margin-bottom: -10px;
+}
+
+#portafolio1 {
+    width: 25%;
+}
+
+#profile {
+    border-radius:150px;
+    height: 400px;
+    width: 300px;
+}
+
+#seccion1 {
+    background-color: #352961;
+    border-radius: 10px;
+    color: white;
+    display: block;
+    float: left;
+    font-family: 'Indie Flower', cursive;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+#seccion2 {
+    background-color: #774181;
+    border-radius: 10px;
+    display: block;
+    float: left;
+    font-family: 'Indie Flower', cursive;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+#seccion3 {
+    background-color: #e6b2c6;
+    border-radius: 10px;
+    display: block;
+    float: left;
+    font-family: 'Indie Flower', cursive;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+#seccion4 {
+    background-color: #f6e5e5;
+    border-radius: 10px;
+    display: block;
+    float: left;
+    font-family: 'Indie Flower', cursive;
+    margin-bottom: 10px;
+    width: 100%;
+}
